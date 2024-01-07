@@ -8,7 +8,7 @@ $ steinhorst.dev:~$ cat github.com/denissteinhorst --info
                       '(%%&&&&&&&&%%#'                        
                    '(%%&%&&%%%&%%%%&&&&&&#'                       # Denis Steinhorst 
                  '/%%*****/(**/*****/%&&&&&#'       
-                 '%/***,,,,,,,,,,,,,*/%&&&&&%'                    Startup   "541600662"
+                 '%/***,,,,,,,,,,,,,*/%&&&&&%'                    Startup   541600662
                  '/****,,,,,,,**,,,,,*(%%%&%%'                    Location  "Duisburg, NRW, Germany"
                  '*********,******,***/%%%%%('              
                  '/(##%%(**(###((/((**,*%&&%'                     Favorite Frameworks
